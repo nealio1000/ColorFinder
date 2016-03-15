@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ColorFinder</string>
+    <string name="RedLabel">Red</string>
+    <string name="GreenLabel">Green</string>
+    <string name="BlueLabel">Blue</string>
+    <string name="TitleMessage">Choose a Color!</string>
+</resources>

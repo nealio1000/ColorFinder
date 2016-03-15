@@ -1,0 +1,1 @@
+moved intent definition to onClick()

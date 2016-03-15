@@ -1,0 +1,16 @@
+data/gradle.properties.i
+data/app/src/main/res/layout/activity_color_finder.xml.i
+data/app/src/main/res/layout/activity_main.xml.i
+data/settings.gradle.i
+data/app/src/main/java/com/example/neal/colorfinder/MainActivity.java.i
+data/app/build.gradle.i
+data/app/src/main/AndroidManifest.xml.i
+data/app/proguard-rules.pro.i
+data/app/src/main/res/values/strings.xml.i
+data/app/src/main/java/com/example/neal/colorfinder/ColorFinder.java.i
+data/app/src/main/res/layout/activity_client.xml.i
+data/app/src/main/res/values/colors.xml.i
+data/build.gradle.i
+data/local.properties.i
+data/app/src/main/java/com/example/neal/colorfinder/Client.java.i
+data/gradle/wrapper/gradle-wrapper.properties.i
